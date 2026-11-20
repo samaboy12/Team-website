@@ -1,13 +1,5 @@
-
-# Team Name: Team Byte
-
-**Live site:** https://trevormunene04-art.github.io/Team-Website/
-
-## Team
-
-| Name | Registration no. | GitHub username |
-|------|------------------|-----------------|
-| Trevor Kaimuri | COM/3431/26 | trevormunene04-art |
+#
+|Trevor Munene | COM/3431/26 | trevormunene04-art |
 | MOHAMED ABDILAHI| COM/8229/26 | Samaboy12 |
 
 ## Who drove each part
